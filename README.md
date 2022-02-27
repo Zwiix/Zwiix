@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Zwiix
-- 👀 I’m interested in programming
+- 👀 I’m interested about programming
 - 🌱 I’m currently learning web application
 - 📫 Discord : 𝙕𝙬𝙞𝙭#4275
 
