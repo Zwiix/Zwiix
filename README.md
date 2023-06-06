@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Zwiix
 - 👀 I’m interested about programming
-- 📫 Discord : 𝙕𝙬𝙞𝙭#4275
+- 📫 Discord : Zwix#4275
+- Orders : Opened
 
 
 
