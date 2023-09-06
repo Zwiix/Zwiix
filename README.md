@@ -1,9 +1,5 @@
-- 👋 Hi, I’m @Zwiix
-- 👀 I’m interested about programming
-- 📫 Discord : Zwix#4275
-- Orders : Opened
 
-
+CA DEV OU QUOI
 
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=Zwix-dev&theme=algolia&show_icons=true)](https://github.com/Zwix-dev)
 [![Zwix's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=Zwix-dev&&theme=algolia&show_icons=true)](https://github.com/Zwix-dev)
