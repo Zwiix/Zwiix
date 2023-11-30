@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently studiying IT.<br>🌱 I’m currently learning C#, JS, PHP, HTML/CSS, SQL.<br>
+
 
 
 # 💻 Tech Stack:
