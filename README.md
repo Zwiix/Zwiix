@@ -2,8 +2,11 @@
 This is the place where I share my best projects ! 😉
 
 🔭  I’m future developer. 😉
+
 🌱  I’m currently learning React, Flutter.
+
 👨‍💻  Read more about my projects at arthur-duval.dev.
+
 ⚡  Fun fact: I ❤️ to develop funny projects ! 
 
 # 💻 Tech Stack:
